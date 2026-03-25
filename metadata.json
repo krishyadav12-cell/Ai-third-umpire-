@@ -1,0 +1,5 @@
+{
+  "name": "AI Third Umpire",
+  "description": "A mobile web app for street cricket players to get AI-powered umpiring decisions using their phone camera.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
